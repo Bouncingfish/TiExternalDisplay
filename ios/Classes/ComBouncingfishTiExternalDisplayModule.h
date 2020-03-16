@@ -8,7 +8,7 @@
 #import "TiModule.h"
 #import <TitaniumKit/TiWindowProxy.h>
 
-@interface ComBduyngTiExternalDisplayModule : TiModule {
+@interface ComBouncingfishTiExternalDisplayModule : TiModule {
     @private
     UIScreen *extScreen;
     UIWindow *extWindow;

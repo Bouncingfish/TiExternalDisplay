@@ -1,4 +1,4 @@
-var TiExternalDisplay = require('com.bduyng.TiExternalDisplay');
+var TiExternalDisplay = require('com.bouncingfish.TiExternalDisplay');
 
 TiExternalDisplay.addEventListener('connected', function(e) {
     console.error('EXTERNAL DISPLAY CONNECTED', e);

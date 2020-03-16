@@ -10,7 +10,7 @@
 #import "TiHost.h"
 #import "TiUtils.h"
 
-@implementation ComBduyngTiExternalDisplayModule
+@implementation ComBouncingfishTiExternalDisplayModule
 
 #pragma mark Internal
 
