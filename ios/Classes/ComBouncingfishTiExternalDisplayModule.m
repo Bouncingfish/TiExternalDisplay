@@ -23,7 +23,7 @@
 // This is generated for your module, please do not change it
 - (NSString *)moduleId
 {
-  return @"com.bduyng.TiExternalDisplay";
+  return @"com.bouncingfish.TiExternalDisplay";
 }
 
 #pragma mark Lifecycle

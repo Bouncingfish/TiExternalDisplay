@@ -6,7 +6,7 @@ Add to your `TiApp.xml` modules section:
 
 ```
 <modules>
-	<module platform="iphone">com.bduyng.TiExternalDisplay</module>
+	<module platform="iphone">com.bouncingfish.TiExternalDisplay</module>
 </modules>
 ```
 
